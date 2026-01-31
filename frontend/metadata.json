@@ -1,0 +1,5 @@
+{
+  "name": "CampusPulse Authority",
+  "description": "A strategic campus management platform for Campus Authorities to analyze student sentiment via Gemini AI and for Campus Partners to collaborate on institutional growth.",
+  "requestFramePermissions": []
+}
