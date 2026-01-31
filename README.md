@@ -31,6 +31,6 @@ Prompt strategy and examples are documented here:
 prompts/vibe-prompts.md
 
 ## Demo Credentials
-Student: student@demo.com / demo123  
-Campus Authority: authority@demo.com / demo123  
-Service Partner: partner@demo.com / demo123
+Service Partner: Unique id / pass
+Campus Authority:Organisation name/ email / pass 
+Student: Registration Number / pass 
