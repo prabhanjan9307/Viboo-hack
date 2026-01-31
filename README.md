@@ -23,7 +23,7 @@ to enable data-driven campus service improvements.
 - Frontend: HTML, CSS, JavaScript
 - Backend: Node.js / Firebase
 - Database: MongoDB / Firestore
-- AI Tool: Google Gemini (Vibe Coding)
+- AI Tool: Google Gemini (Vibe Coding),ChatGpt(took prompt for gemini)
 
 ## Prompt Engineering
 This project follows a Vibe Coding approach.
